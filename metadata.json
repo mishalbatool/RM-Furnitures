@@ -1,0 +1,6 @@
+{
+  "name": "RM Furnitures Chiniot",
+  "description": "Traditional wooden furniture, elegant bedroom sets, sofas, home decor, and handcrafted wooden artistry from RM Furnitures Chiniot, Saad Masjid Street, Chiniot, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
